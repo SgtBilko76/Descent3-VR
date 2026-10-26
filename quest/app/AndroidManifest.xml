@@ -46,6 +46,7 @@
     <!-- VR-END -->
 
     <application
+        android:icon="@drawable/ic_launcher"
         android:label="Descent 3"
         android:allowBackup="false"
         android:hasCode="true">
