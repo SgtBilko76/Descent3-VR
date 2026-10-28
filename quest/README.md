@@ -1,5 +1,7 @@
 # Descent 3 for Meta Quest and PICO
 
+**Download, install guide, controls and pictures: [portroyale.online/descent3.html](https://portroyale.online/descent3.html)**
+
 A VR port of the [Descent 3 open source engine](https://github.com/DescentDevelopers/Descent3)
 for standalone VR headsets, running as a sideloaded app. You sit in a
 virtual cockpit: the ship flies on the controllers while you look around
