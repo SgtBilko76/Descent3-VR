@@ -72,6 +72,8 @@ adb shell "cd $DATA && find . -mindepth 1 -type d -exec chmod 2777 {} +"
 
 ## Controls
 
+![Descent 3 VR controller mapping](../docs/controls.webp)
+
 | | Flying | Menus |
 |---|---|---|
 | Left stick | thrust forward/back, slide left/right | arrow keys |
